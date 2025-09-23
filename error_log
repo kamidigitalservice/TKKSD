@@ -1,0 +1,57 @@
+[26-Dec-2020 07:09:03 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/p4l4buh2020/public_html/application/views/profil/selayang.php on line 32
+[26-Dec-2020 07:14:20 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/p4l4buh2020/public_html/application/views/profil/selayang.php on line 32
+[26-Dec-2020 07:16:07 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/p4l4buh2020/public_html/application/views/profil/selayang.php on line 31
+[26-Dec-2020 07:16:22 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/p4l4buh2020/public_html/application/views/profil/selayang.php on line 31
+[26-Dec-2020 07:17:12 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/p4l4buh2020/public_html/application/views/profil/selayang.php on line 31
+[26-Dec-2020 07:17:12 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/p4l4buh2020/public_html/application/views/profil/selayang.php on line 31
+[26-Dec-2020 07:17:13 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/p4l4buh2020/public_html/application/views/profil/selayang.php on line 31
+[26-Dec-2020 07:17:13 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/p4l4buh2020/public_html/application/views/profil/selayang.php on line 31
+[26-Dec-2020 07:17:13 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/p4l4buh2020/public_html/application/views/profil/selayang.php on line 31
+[26-Dec-2020 07:17:14 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/p4l4buh2020/public_html/application/views/profil/selayang.php on line 31
+[26-Dec-2020 07:17:14 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/p4l4buh2020/public_html/application/views/profil/selayang.php on line 31
+[26-Dec-2020 07:17:14 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/p4l4buh2020/public_html/application/views/profil/selayang.php on line 31
+[26-Dec-2020 07:17:15 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/p4l4buh2020/public_html/application/views/profil/selayang.php on line 31
+[26-Dec-2020 07:17:15 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/p4l4buh2020/public_html/application/views/profil/selayang.php on line 31
+[27-Dec-2020 15:25:16 UTC] PHP Fatal error:  Call to a member function result_array() on null in /home/p4l4buh2020/public_html/application/views/berita/detail.php on line 33
+[27-Dec-2020 15:26:05 UTC] PHP Fatal error:  Call to a member function result_array() on null in /home/p4l4buh2020/public_html/application/views/berita/detail.php on line 33
+[27-Dec-2020 15:28:24 UTC] PHP Fatal error:  Call to a member function result_array() on null in /home/p4l4buh2020/public_html/application/views/header/side1.php on line 14
+[27-Dec-2020 23:15:36 UTC] PHP Fatal error:  Call to a member function show_berita() on null in /home/p4l4buh2020/public_html/application/controllers/Auth.php on line 74
+[28-Dec-2020 00:11:19 UTC] PHP Fatal error:  Call to a member function show_berita() on null in /home/p4l4buh2020/public_html/application/controllers/Auth.php on line 74
+[28-Dec-2020 00:11:20 UTC] PHP Fatal error:  Call to a member function show_berita() on null in /home/p4l4buh2020/public_html/application/controllers/Auth.php on line 74
+[28-Dec-2020 00:15:03 UTC] PHP Fatal error:  Call to a member function show_berita() on null in /home/p4l4buh2020/public_html/application/controllers/Auth.php on line 74
+[28-Dec-2020 00:15:21 UTC] PHP Fatal error:  Call to a member function show_berita() on null in /home/p4l4buh2020/public_html/application/controllers/Auth.php on line 74
+[28-Dec-2020 00:16:12 UTC] PHP Fatal error:  Call to a member function show_berita() on null in /home/p4l4buh2020/public_html/application/controllers/Auth.php on line 74
+[04-Jan-2021 04:17:28 UTC] PHP Fatal error:  Call to a member function result_array() on null in /home/p4l4buh2020/public_html/application/views/profil/selayang.php on line 30
+[04-Jan-2021 04:32:05 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/p4l4buh2020/public_html/application/views/profil/selayang.php on line 3
+[04-Jan-2021 04:33:26 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/p4l4buh2020/public_html/application/views/profil/selayang.php on line 3
+[04-Jan-2021 04:33:28 UTC] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/p4l4buh2020/public_html/application/views/profil/selayang.php on line 3
+[05-Jan-2021 03:28:19 UTC] PHP Fatal error:  Call to undefined method M_layanan::show_ksdp() in /home/p4l4buh2020/public_html/application/controllers/Layanan.php on line 46
+[05-Jan-2021 03:41:32 UTC] PHP Fatal error:  Call to undefined method M_layanan::show_sinegitas() in /home/p4l4buh2020/public_html/application/controllers/Layanan.php on line 73
+[13-Jan-2021 02:58:44 UTC] PHP Fatal error:  Call to undefined method M_ph::getfile() in /home/p4l4buh2020/public_html/application/controllers/Produk_hukum.php on line 33
+[13-Jan-2021 03:00:25 UTC] PHP Fatal error:  Call to undefined method M_ph::getfile() in /home/p4l4buh2020/public_html/application/controllers/Produk_hukum.php on line 33
+[13-Jan-2021 03:00:26 UTC] PHP Fatal error:  Call to undefined method M_ph::getfile() in /home/p4l4buh2020/public_html/application/controllers/Produk_hukum.php on line 33
+[13-Jan-2021 03:00:27 UTC] PHP Fatal error:  Call to undefined method M_ph::getfile() in /home/p4l4buh2020/public_html/application/controllers/Produk_hukum.php on line 33
+[13-Jan-2021 03:00:27 UTC] PHP Fatal error:  Call to undefined method M_ph::getfile() in /home/p4l4buh2020/public_html/application/controllers/Produk_hukum.php on line 33
+[13-Jan-2021 03:00:28 UTC] PHP Fatal error:  Call to undefined method M_ph::getfile() in /home/p4l4buh2020/public_html/application/controllers/Produk_hukum.php on line 33
+[13-Jan-2021 03:00:28 UTC] PHP Fatal error:  Call to undefined method M_ph::getfile() in /home/p4l4buh2020/public_html/application/controllers/Produk_hukum.php on line 33
+[20-Jan-2021 02:50:19 UTC] PHP Fatal error:  Call to a member function getnp() on null in /home/p4l4buh2020/public_html/application/controllers/Kerjasama.php on line 63
+[25-Jan-2021 07:30:57 UTC] PHP Fatal error:  Call to a member function set_rules() on null in /home/p4l4buh2020/public_html/application/controllers/Layanan.php on line 36
+[15-Feb-2021 06:49:11 UTC] PHP Fatal error:  Call to a member function result_array() on array in /home/p4l4buh2020/public_html/application/views/beranda/index.php on line 95
+[15-Feb-2021 06:49:14 UTC] PHP Fatal error:  Call to a member function result_array() on array in /home/p4l4buh2020/public_html/application/views/beranda/index.php on line 95
+[15-Feb-2021 06:50:11 UTC] PHP Parse error:  syntax error, unexpected '$pin' (T_VARIABLE) in /home/p4l4buh2020/public_html/application/views/beranda/index.php on line 95
+[15-Feb-2021 06:50:12 UTC] PHP Parse error:  syntax error, unexpected '$pin' (T_VARIABLE) in /home/p4l4buh2020/public_html/application/views/beranda/index.php on line 95
+[15-Feb-2021 06:50:16 UTC] PHP Parse error:  syntax error, unexpected '$pin' (T_VARIABLE) in /home/p4l4buh2020/public_html/application/views/beranda/index.php on line 95
+[15-Feb-2021 06:52:26 UTC] PHP Fatal error:  Call to a member function result_array() on array in /home/p4l4buh2020/public_html/application/views/beranda/index.php on line 95
+[15-Feb-2021 06:52:29 UTC] PHP Fatal error:  Call to a member function result_array() on array in /home/p4l4buh2020/public_html/application/views/beranda/index.php on line 95
+[20-Sep-2021 08:42:55 UTC] PHP Fatal error:  Cannot use object of type mysqli as array in /home/p4l4buh2020/public_html/application/views/beranda/index.php on line 139
+[20-Sep-2021 08:43:59 UTC] PHP Fatal error:  Cannot use object of type mysqli as array in /home/p4l4buh2020/public_html/application/views/beranda/index.php on line 139
+[22-Sep-2021 07:05:11 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/p4l4buh2020/public_html/application/views/beranda/index.php on line 178
+[22-Sep-2021 07:05:18 UTC] PHP Fatal error:  Call to a member function result_array() on boolean in /home/p4l4buh2020/public_html/application/views/beranda/index.php on line 178
+[22-Sep-2021 07:31:55 UTC] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::rowt_array() in /home/p4l4buh2020/public_html/application/models/M_berita.php on line 38
+[22-Sep-2021 07:41:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/p4l4buh2020/public_html/tesapi.php on line 11
+[22-Sep-2021 07:41:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/p4l4buh2020/public_html/tesapi.php on line 11
+[22-Sep-2021 07:42:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/p4l4buh2020/public_html/tesapi.php on line 11
+[22-Sep-2021 07:42:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/p4l4buh2020/public_html/tesapi.php on line 11
+[22-Sep-2021 07:43:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/p4l4buh2020/public_html/tesapi.php on line 11
+[22-Sep-2021 07:45:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/p4l4buh2020/public_html/tesapi.php on line 11
+[22-Sep-2021 07:45:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/p4l4buh2020/public_html/tesapi.php on line 11
