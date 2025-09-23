@@ -1,2 +1,8 @@
 
 [20-Nov-2020 03:23:00 UTC] PHP Warning:  Use of undefined constant site_url - assumed 'site_url' (this will throw an Error in a future version of PHP) in /home/kebo5/public_html/uploadna.php on line 8
+[12-Oct-2021 08:53:06 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/p4l4buh2020/public_html/smi/application/libraries/Cc_app.php on line 194
+[12-Oct-2021 08:53:08 UTC] PHP Fatal error:  Call to a member function result() on boolean in /home/p4l4buh2020/public_html/smi/application/libraries/Cc_app.php on line 194
+[12-Oct-2021 08:54:32 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/p4l4buh2020/public_html/smi/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 246
+[12-Oct-2021 15:57:14 Asia/Jakarta] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home/p4l4buh2020/public_html/smi/vendor/symfony/var-dumper/Dumper/CliDumper.php on line 67
+[12-Oct-2021 15:57:19 Asia/Jakarta] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home/p4l4buh2020/public_html/smi/vendor/symfony/var-dumper/Dumper/CliDumper.php on line 67
+[12-Oct-2021 08:57:35 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/p4l4buh2020/public_html/smi/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 246
